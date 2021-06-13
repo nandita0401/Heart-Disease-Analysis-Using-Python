@@ -5,6 +5,7 @@ reduced and the functioning of the heart improved. The predicted results can be 
 and thus reduce cost for surgical treatment and other expensive,
 This project addresses three separate questions relating to the nature and statistical 
 relationship between the distinct locations of the data as well as some of the attributes therein. 
+
 The questions are as follows:
 Question 1 - Does there seem to be an average prediction risk value of heart disease shared 
 among the data, or does one location stand out from the rest?
